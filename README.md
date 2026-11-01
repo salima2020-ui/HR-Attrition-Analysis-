@@ -8,7 +8,7 @@ An end-to-end HR analytics pipeline built on the IBM HR Employee Attrition datas
 * **Interactive Environment:** Jupyter Notebook (`attrition_analytics.ipynb`)
 * **Database Engine:** SQLite (`sqlite3`) via Python `conn`
 * **Data Manipulation & Querying:** SQL (CTEs, Window Functions, Conditional Aggregations)
-* **Visualization Layer:** Python (`matplotlib`, `seaborn`)
+* **Visualization Layer:** Python (`matplotlib`)
 
 ---
 
